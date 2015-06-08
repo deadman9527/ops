@@ -1,0 +1,42 @@
+{
+    "statusCode": 200,
+    "responseBody": {
+        "responseInfo": {
+            "reasons": {
+                "code": "0000",
+                "type": 0,
+                "msg": "操作成功"
+            }
+        },
+        "data":[{
+            "id": "2284",
+            "stop":"0",
+            "name": "波亚米特",
+            "column":"今日上新",
+            "column_id":"今日上新",
+            "start_time":"2015-01-10 10:04",
+            "end_time":"2015-01-12 10:04",
+            "plan_start_time":"2015-01-10 10:04",
+            "plan_end_time":"2015-01-10 10:04",
+            "locked":"1",
+            "sort":"1"
+        },{
+            "id": "2285",
+            "stop":"0",
+            "name": "波亚米特2",
+            "column":"今日上新",
+            "column_id":"今日上新",
+            "start_time":"2015-02-10 10:04",
+            "end_time":"2015-02-12 10:04",
+            "plan_start_time":"2015-02-10 10:04",
+            "plan_end_time":"2015-02-10 10:04",
+            "locked":"0",
+            "sort":"2"
+        }
+        ],
+        "page": 1,
+        "pagesize": 30,
+        "total": 1,
+        "total_pages": 130
+    }
+}

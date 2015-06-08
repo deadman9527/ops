@@ -1,0 +1,29 @@
+{
+    "statusCode": 200,
+    "responseBody": {
+        "responseInfo": {
+            "reasons": {
+                "code": "0000",
+                "type": 0,
+                "msg": "操作成功"
+            }
+        },
+        "data":[{
+                "ad_id": "01",
+                "ad_name": "新年纸尿裤特卖",
+                "ad_position_code":"12",
+                "ad_status": "有效",
+                "ad_status_code": "0",
+                "ad_type_code": "1",
+                "user_type": ["1","2"],
+                "age_stage": ["1","2"],
+                "start_time": "2015-01-10 00:00",
+                "end_time": "2015-01-15 00:00",
+                "order_num":"10",
+                "remark":"没有备注",
+                "ad_url":"http://www.ve.cn",
+                "ad_img":"http://test.ve.cn/seller/style/images/seller/ex_zhizhao_min.png"
+            }
+            ]
+    }
+}

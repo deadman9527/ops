@@ -1,0 +1,21 @@
+{
+    "statusCode": 200,
+    "responseBody": {
+        "responseInfo": {
+            "reasons": {
+                "code": "0000",
+                "type": 0,
+                "msg": "操作成功"
+            }
+        },
+        "data":[{
+                "id": "1",
+                "code":"A1",
+                "type": "用户第一次来",
+                "desc": "用户相关的描述",
+                "apply_status": "是",
+                "apply": "0"
+            }
+            ]
+    }
+}

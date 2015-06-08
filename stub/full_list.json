@@ -1,0 +1,44 @@
+{
+    "statusCode": 200,
+    "responseBody": {
+        "responseInfo": {
+            "reasons": {
+                "code": "0000",
+                "type": 0,
+                "msg": "操作成功"
+            }
+        },
+        "data":{
+            "user":[{
+                "id": "1",
+                "type":"A1"
+            },
+            {
+                "id": "2",
+                "type":"A2"
+            },
+            {
+                "id": "3",
+                "type":"B1"
+            },
+            {
+                "id": "4",
+                "type":"B2"
+            }
+            ],
+        "age":[{
+            "id": "1",
+            "type":"默认"
+        },
+            {
+                "id": "2",
+                "type":"孕妇"
+            },
+            {
+                "id": "3",
+                "type":"0-1岁"
+            }
+        ]
+    }
+    }
+}

@@ -1,0 +1,1 @@
+cobra.add({"imageUploadUrl":"http://cdr.ve_admin.dev/m.php?m=PmsAdv&a=pms_upload_img","gUploadImage":"http://cdr.ve_admin.dev/m.php?m=PmsAdv&a=pms_upload_img","dev":"http://cdr.ve_admin.dev","use":"stub","stub":"stub"});

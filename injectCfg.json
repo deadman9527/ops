@@ -1,0 +1,22 @@
+{
+    "usertype_config" : {
+        "script" : ["src/plugins/miniDialog.js","src/fn/usertype_config.js"],
+        "style" : []
+    },
+    "age_config" : {
+        "script" : ["src/plugins/miniDialog.js","src/fn/age_config.js"],
+        "style" : []
+    },
+    "page_config" : {
+        "script" : ["src/plugins/miniDialog.js","src/fn/page_config.js"],
+        "style" : []
+    },
+    "ad_op" : {
+        "script": ["src/plugins/datetimepicker/jquery.datetimepicker.js", "src/plugins/uploadify/jquery.uploadify.js", "src/plugins/miniDialog.js","src/fn/ad_op.js"],
+        "style": ["style/css/plugins/datetimepicker/jquery.datetimepicker.css", "style/css/plugins/uploadify/uploadify.css"]
+    },
+    "special_plan" : {
+        "script" : ["src/plugins/datetimepicker/jquery.datetimepicker.js","src/plugins/uploadify/jquery.uploadify.js","src/plugins/miniDialog.js","src/fn/special_plan.js"],
+        "style" : ["style/css/plugins/datetimepicker/jquery.datetimepicker.css","src/plugins/uploadify/uploadify.js"]
+    }
+}

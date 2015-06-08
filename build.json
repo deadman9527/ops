@@ -1,0 +1,46 @@
+{
+    "version" : "1.0.0",
+    "production" : "http://www.ve.cn",
+    "dev" : "http://cdr.ve_admin.dev",
+    "rc" : "http://rc.ve.cn",
+    "test" : "http://test.ve.cn",
+    "u" : "http://utest.ve.cn",
+    "includes" : {
+      "imageUploadUrl" : "${host}/m.php?m=PmsAdv&a=pms_upload_img",
+      "gUploadImage"   : "${host}/m.php?m=PmsAdv&a=pms_upload_img"
+    },
+
+    "nav" : {
+        "items" : [
+            {
+                "id" : "l001",
+                "icon":" fa-th-large",
+                "item" : "用户类型配置",
+                "url" : "../html/usertype_config.html",
+                "children" : [
+                    {
+                        "id" : "l0011",
+                        "item" : "用户类型配置",
+                        "url" : "../html/usertype_config.html"
+                    },
+                    {
+                        "id" : "l0012",
+                        "item" : "年龄类型配置",
+                        "url" : "../html/age_config.html"
+                    },
+                    {
+                        "id" : "l0013",
+                        "item" : "页面管理配置",
+                        "url" : "../html/page_config.html"
+                    },
+                    {
+                        "id" : "l0015",
+                        "item" : "广告拆分",
+                        "url" : "../html/ad_op.html"
+                    }
+                ]
+            }
+        ]
+    },
+    "debug" : "true"
+}

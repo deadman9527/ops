@@ -1,0 +1,32 @@
+{
+    "statusCode": 200,
+    "responseBody": {
+        "responseInfo": {
+            "reasons": {
+                "code": "0000",
+                "type": 0,
+                "msg": "操作成功"
+            }
+        },
+        "data":[{
+                "id": "1",
+                "code":"PC_00_AB",
+                "name": "PC_孕妇_新客",
+                "port": "PC",
+                "port_code":"0",
+                "user_type": ["1","2"],
+                "age_stage": "孕妇",
+                "age_stage_code":"2",
+                "rule": "手动排序",
+                "rule_code": "0",
+                "desc": "暂无描述",
+                "apply_status": "是",
+                "apply": "0"
+            }
+            ],
+        "page": 1,
+        "pagesize": 30,
+        "total": 1,
+        "total_pages": 130
+    }
+}

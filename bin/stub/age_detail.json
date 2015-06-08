@@ -1,0 +1,22 @@
+{
+    "statusCode": 200,
+    "responseBody": {
+        "responseInfo": {
+            "reasons": {
+                "code": "0000",
+                "type": 0,
+                "msg": "操作成功"
+            }
+        },
+        "data":{
+                "code":"00",
+                "type": "3-6月",
+                "sex": "0",
+                "start_year": "0",
+                "start_month": "3",
+                "end_year": "0",
+                "end_month": "6",
+                "apply_status": "0"
+            }
+    }
+}

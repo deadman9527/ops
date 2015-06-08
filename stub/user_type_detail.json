@@ -1,0 +1,22 @@
+{
+    "statusCode": 200,
+    "responseBody": {
+        "responseInfo": {
+            "reasons": {
+                "code": "0000",
+                "type": 0,
+                "msg": "操作成功"
+            }
+        },
+        "data":{
+                "code":"A1",
+                "type": "用户第一次来",
+                "port": "0",
+                "pc_first": "0",
+                "mob_first": "0",
+                "pc_ag": "0",
+                "mob_ag": "0",
+                "apply": "0"
+            }
+    }
+}
